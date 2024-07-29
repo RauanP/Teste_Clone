@@ -13,7 +13,7 @@ push
 ----------------------------------
 git remote add origin https://github.com/RauanP/TI43Teste1.git
 git branch -M main
-git push -u origipushn maingit 
+git push origin main
 
 --------
 git log --oneline = mostra os ultimos commits
