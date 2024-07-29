@@ -1,0 +1,35 @@
+Testes Unitários (Unit Tests):
+Utiliza frameworks como MSTest, NUnit ou xUnit.net.
+Testa unidades individuais de código, como métodos ou classes, isoladas de suas dependências externas.
+
+Testes de Integração (Integration Tests):
+Verifica a interação entre diferentes partes do sistema, como a integração de módulos ou serviços.
+Pode ser realizado usando ferramentas como MSTest, NUnit ou xUnit.net, combinados com configurações específicas de ambiente.
+
+Testes de Carga (Load Tests):
+Avalia o desempenho e a escalabilidade do sistema sob diferentes cargas.
+Visual Studio possui o "Visual Studio Load Test" para simular o comportamento de múltiplos usuários acessando o sistema simultaneamente.
+
+Testes de Interface do Usuário (UI Tests):
+Automatiza a interação do usuário com a interface gráfica do aplicativo para verificar o comportamento esperado.
+Ferramentas como o "Visual Studio App Center" podem ser usadas para testes em dispositivos móveis.
+
+Testes Exploratórios (Exploratory Tests):
+Permitem aos testadores explorar o aplicativo livremente para descobrir falhas não documentadas.
+Pode ser feito manualmente ou com ferramentas de suporte no Visual Studio.
+
+Testes de Código (Code Coverage):
+Mede a quantidade de código testado por testes automatizados.
+O Visual Studio pode gerar relatórios de cobertura de código para ajudar a identificar áreas não testadas.
+
+Testes de Desempenho (Performance Tests):
+Avalia o desempenho do código em termos de tempo de execução, uso de recursos, etc.
+Pode ser configurado usando ferramentas integradas ou plugins do Visual Studio.
+
+Teste de Regressão: 
+É executado para determinar se as modificações no código interrompem um aplicativo 
+ou consomem recursos.
+
+Teste de Sanidade: 
+Realizado após a correção de bugs, o teste de sanidade determina que os bugs foram corrigidos 
+e que nenhum outro problema foi introduzido nessas mudanças.

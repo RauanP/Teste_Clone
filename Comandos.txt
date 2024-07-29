@@ -1,0 +1,26 @@
+new repository
+---------------------------------------------
+echo "# TI43Teste1" >> README.md
+git init
+git add README.md (git add .)
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/RauanP/TI43Teste1.git
+git push -u origin main
+
+git 
+push
+----------------------------------
+git remote add origin https://github.com/RauanP/TI43Teste1.git
+git branch -M main
+git push -u origipushn maingit 
+
+--------
+git log --oneline = mostra os ultimos commits
+
+git clean -df = apaga os arquivos que não estão commitados
+
+git checkout HEAD~1 = apaga os ultimos commmits feitos, o numero indica qual foi o commit, do ultimo ao primeiro
+
+git checkout main = pega os arquivos apagados do comando de cima.
+
